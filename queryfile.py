@@ -2,7 +2,7 @@ from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import chromadb
 
-save_directory = "./saved_model"
+save_directory = "./saved_model"   # when running for the first time uncomment bellow code for downolading and saving the model
 # tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-large")
 # tokenizer.save_pretrained(save_directory)
 # print("done")
