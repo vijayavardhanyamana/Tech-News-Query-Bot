@@ -9,6 +9,15 @@ Tech-News-Query-Bot is an AI-powered chatbot designed to provide real-time tech 
 - **Efficient Data Management:** Leverages ChromaDB for storing and retrieving data.
 - **User-Friendly Interface:** Built with Streamlit for an intuitive and interactive experience.
 
+## Technologies Used
+
+- **Python**: The core programming language used in the project.
+- **Langchain**: Framework for building applications with language models.
+- **ChromaDB**: Vector database for managing and retrieving embeddings.
+- **Streamlit**: A fast and simple way to create custom web apps for machine learning and data science.
+- **BeautifulSoup**: Library for web scraping and parsing HTML and XML documents.
+- **requests**: HTTP library for making requests to web pages.
+
 ## Installation
 
 ### Clone the Repository
